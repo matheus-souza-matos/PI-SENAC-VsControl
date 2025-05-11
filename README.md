@@ -1,0 +1,3 @@
+Olá,
+Este Projeto foi criado com base em um problema real, desenvolvido como atividade de conclusão do curso
+de Desenvolvedor de Sistemas, para mais informações consulte o arquivo README dentro da pasta...
