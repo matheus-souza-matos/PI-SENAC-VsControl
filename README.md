@@ -2,7 +2,6 @@ VsControl
 
 📝 Descrição do Projeto:                                                                                                                                                                   
 Este projeto foi desenvolvido como trabalho de conclusão do curso de Desenvolvedor de Sistemas no Senac. A ideia nasceu de um problema real na empresa onde trabalho e foi criado para facilitar e controlar produtos de acordo com a necessidade do cliente.
-
 O VsControl é um sistema versátil, projetado para ajudar a manter um registro preciso e seguro nas operações da empresa. Com uma interface direta, ele permite ao usuário visualizar e controlar seu estoque de forma eficiente. O sistema conta com validação de usuário e um CRUD (Create, Read, Update, Delete) completo para gerenciamento de produtos.
 
 🚀 Tecnologias Utilizadas:                                                                                                                                                                 
